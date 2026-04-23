@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+   <teiHeader creator="Dirk Van Hulle" date.created="2000-06-08">
+      <fileDesc>
+         <titleStmt>
+            <title>Achter de Schermen: a machine readable transcription</title>
+            <title>Achter de Schermen: a machine readable transcription</title>
+            <author id="WE">Willem Elsschot</author>
+            <principal id="DVH">Dirk Van Hulle</principal>
+            <principal id="PDB">Peter De Bruijn</principal>
+            <funder>
+               <name>Centre for Manuscript Genetics (UA)</name>
+               <name>Huygens Instituut (HI), Koninklijke Nederlandse Akademie van Wetenschappen</name>
+               <name>Centrum voor Teksteditie en Bronnenstudie (CTB), Koninklijke Academie voor Nederlandse Taal- en Letterkunde</name>
+               <address>
+                  <addrLine>Universiteit Antwerpen (UA)</addrLine>
+                  <addrLine>Prinsstraat 13</addrLine>
+                  <addrLine>B-2000 Antwerpen</addrLine>
+                  <addrLine>Belgium</addrLine>
+                  <addrLine>tel: +32 (0)3 220 42 46</addrLine>
+                  <addrLine>email: dirk.vanhulle@ua.ac.be</addrLine>
+               </address>
+            </funder>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <authority>Centre for Manuscript Genetics (UA)</authority>
+            <authority>Huygens Instituut (HI), Koninklijke Nederlandse Akademie van Wetenschappen</authority>
+            <authority>Centrum voor Teksteditie en Bronnenstudie (CTB), Koninklijke Academie voor Nederlandse Taal- en Letterkunde</authority>
+            <pubPlace>Antwerp</pubPlace>
+            <date>2007</date>
+            <availability status="restricted"/>
+         </publicationStmt>
+         <sourceDesc/>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <editorialDecl>
+            <p>
+               <list>
+                  <item>Correction:</item>
+                  <item>Normalization:</item>
+                  <item>Quotation:</item>
+                  <item>Hyphenation:</item>
+                  <item>Interpretation:</item>
+               </list>
+            </p>
+         </editorialDecl>
+         <tagsDecl/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <p>
+               <foreign id="Latijn">Latijn</foreign>
+               <foreign id="Duits">Duits</foreign>
+               <foreign id="Engels">Engels</foreign>
+               <foreign id="Frans">Frans</foreign>
+            </p>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text id="AdsD3">
+      <front TEIform="front">
+         <div org="uniform"
+              TEIform="div"
+              sample="complete"
+              part="N"
+              id="d0e269">
+            <witList TEIform="witList">
+               <witness sigil="AdsM1 " n="AdsM1" TEIform="witness">1934: Manuscript 'Achter de Schermen'</witness>
+               <witness sigil="AdsM2a "
+                        n="AdsM2a"
+                        rend="getypte tekst"
+                        TEIform="witness">1934: Typoscript 'Achter de Schermen', getypte tekst</witness>
+               <witness sigil="AdsM2b " n="AdsM2b" rend="zwarte inkt" TEIform="witness">1934: Typoscript 'Achter de Schermen', zwarte inkt</witness>
+               <witness sigil="AdsM2c " n="AdsM2c" rend="zwarte inkt" TEIform="witness">1934: Typoscript 'Achter de Schermen', zwarte inkt</witness>
+               <witness sigil="AdsM2d "
+                        n="AdsM2d"
+                        rend="grijs potlood"
+                        TEIform="witness">1934: Typoscript 'Achter de Schermen', potlood</witness>
+               <witness sigil="AdsM2e "
+                        n="AdsM2e"
+                        rend="rood potlood"
+                        TEIform="witness">1934: Typoscript 'Achter de Schermen', rood potlood</witness>
+               <witness sigil="AdsM2f "
+                        n="AdsM2f"
+                        rend="blauw potlood"
+                        TEIform="witness">1934: Typoscript 'Achter de Schermen', blauw potlood</witness>
+               <witness sigil="AdsT1 " n="AdsT1" TEIform="witness">1935: Voorpublicatie 'Achter de Schermen' in Groot Nederland</witness>
+               <witness sigil="AdsM3a "
+                        n="AdsM3a"
+                        rend="gedrukte tekst"
+                        TEIform="witness">1935: Correctie-exemplaar Groot Nederland, getypte tekst</witness>
+               <witness sigil="AdsM3b " n="AdsM3b" rend="zwarte inkt" TEIform="witness">1935: Correctie-exemplaar Groot Nederland, zwarte inkt</witness>
+               <witness sigil="AdsD1 " n="AdsD1" TEIform="witness">1936: Tsjip, tweede druk</witness>
+               <witness sigil="AdsD2 " n="AdsD2" TEIform="witness">1942: Tsjip, derde druk</witness>
+               <witness sigil="AdsD3 " n="AdsD3" TEIform="witness">1943: Tsjip/De Leeuwentemmer, eerste druk</witness>
+               <witness sigil="AdsD4 " n="AdsD4" id="AdsD4" TEIform="witness">1944: Tsjip/De Leeuwentemmer, tweede druk</witness>
+               <witness sigil="AdsD5 " n="AdsD5" TEIform="witness">1952: Tsjip/De Leeuwentemmer, derde druk</witness>
+               <witness sigil="AdsP1a "
+                        n="AdsP1a"
+                        rend="gezette tekst"
+                        TEIform="witness">1956-57: Tsjip/De Leeuwentemmer, eerste drukproef voor het Verzameld Werk, gezette tekst</witness>
+               <witness sigil="AdsP1b " n="AdsP1b" rend="zwarte inkt" TEIform="witness">1956-57: Tsjip/De Leeuwentemmer, eerste drukproef voor het Verzameld Werk, zwarte inkt</witness>
+               <witness sigil="AdsP2 " n="AdsP2" TEIform="witness">1957: Tsjip/De Leeuwentemmer, tweede drukproef voor het Verzameld Werk</witness>
+               <witness sigil="AdsD6 AdsZP1 " n="AdsD6" TEIform="witness">1957: Tsjip/De Leeuwentemmer, vierde druk, in het Verzameld Werk</witness>
+            </witList>
+         </div>
+      </front>
+      <body TEIform="body">
+         <div type="sectie"
+              org="uniform"
+              sample="complete"
+              part="N"
+              TEIform="div">
+            <head TEIform="head">
+               <app n="f0g401">
+                  <rdg wit="AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 ">ACHTER DE SCHERMEN</rdg>
+               </app>
+            </head>
+            <div type="subsectie"
+                 org="uniform"
+                 sample="complete"
+                 part="N"
+                 TEIform="div">
+               <head TEIform="head">
+                  <app n="f0g402">
+                     <rdg wit="AdsM1 AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a "/>
+                  </app>
+               </head>
+               <head TEIform="head">
+                  <app n="f0g403">
+                     <rdg wit="AdsM1 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                  </app>
+               </head>
+               <head TEIform="head">
+                  <app n="f0g404">
+                     <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 "/>
+                  </app>
+               </head>
+               <p TEIform="p">
+                  <seg n="001" base="z001">
+                     <pb ed="AdsD3 " n="1" corresp=""/> Mijn dochter is getrouwd en heeft ons verlaten.</seg>
+                  <lb ed="AdsM1 AdsT1 AdsM3a AdsZM2 " TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="002" base="z002">Nog steeds zie ik mijn vrouw <app n="d0e400">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zooals</rdg>
+                     </app> zij naast mij stond toen Adele heenging om <app n="d0e401">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> man te volgen.</seg>
+                  <seg n="003" base="z003">Haar <app n="d0e402">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">alledaagsch</rdg>
+                     </app> gezicht vertrok tot een masker dat lilde als onder de striemen van een zweep.</seg>
+                  <seg n="004" base="z004">
+                     <app n="d0F400">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Ja, zij wil blijven <app n="d0e403">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoogen</rdg>
+                           </app> tot <app n="d0e404">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 ">onzen</rdg>
+                           </app>
+                           <app n="d0e405">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">laatsten</rdg>
+                           </app> dag<app n="azze404">
+                              <rdg wit="AdsM2c AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                           </app>
+                        </rdg>
+                     </app>
+                  </seg>
+                  <seg n="005" base="z005">
+                     <app n="d0F401">
+                        <rdg wit="AdsM2e AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Maar een</rdg>
+                     </app> hoos heeft ons uiteengejaagd: dat meisje de baan van het moederschap<app n="azze406">
+                        <rdg wit="AdsM1 AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> op en ons beiden weer naar <app n="d0e407">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app>
+                     <app n="d0e408">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">ouden</rdg>
+                     </app> haard toe<app n="d0F402">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> waar dat smeulend leven moet voortgezet.</seg>
+                  <seg n="006" base="z006">
+                     <app n="d0F404">
+                        <rdg wit="AdsM2e AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Toen echter</rdg>
+                     </app> die jongen voor onze voeten gelegd werd, toen is mijn oude bedgenoot aan 't stralen gegaan als had zij zelf <app n="d0F405">
+                        <rdg wit="AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 "/>
+                     </app>gebaard<app n="d0F406">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> en in gedachten bracht zij de hand aan <app n="d0e409">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsZM2 AdsZM3 ">hare</rdg>
+                           </app> blouse,<app n="d0F409">
+                              <rdg wit="AdsT1 AdsM1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 "> </rdg>
+                           </app>als om die los te <app n="d0e410">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">knoopen</rdg>
+                           </app>.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="007" base="z007">Haar sloffen werd opnieuw een getrippel en haar geklaag <app n="azze410">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>een hooglied.</seg>
+                  <seg n="008" base="z008">En ikzelf heb mij opgericht als om tot <app n="d0e411">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">groote</rdg>
+                     </app> daden over te gaan. <app n="d0F407">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <lb ed="AdsD1 AdsD2 " TEIform="lb"/>
+                  <lb ed="AdsD1 AdsD2 " TEIform="lb"/>
+                  <seg n="009" base="z009">Ik moet die <app n="d0e416">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>beroering boekstaven, want voor <app n="d0e417">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ons</rdg>
+                     </app> is het misschien de laatste geweest<app n="d0e418">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="010" base="z010">
+                     <app n="d0e419">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En</rdg>
+                     </app>
+                     <app n="d0e420">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">nog</rdg>
+                     </app> wel met spoed, vóór de eindelijke versuffing <app n="d0e412">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">haren</rdg>
+                     </app> greep op mijn geest heeft gelegd.</seg>
+                  <seg n="011" base="z011">
+                     <app n="d0e421">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsD2 AdsD3 AdsZM2 AdsZM3 ">Want</rdg>
+                     </app> ik loop naar de zestig<app n="d0e422">
+                        <rdg wit="AdsM2f AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+               </p>
+            </div>
+            <div type="subsectie"
+                 org="uniform"
+                 sample="complete"
+                 part="N"
+                 TEIform="div">
+               <lb ed="AdsD1 AdsD2 " TEIform="lb"/>
+               <lb ed="AdsD2 " TEIform="lb"/>
+               <head TEIform="head">II</head>
+               <p TEIform="p">
+                  <seg n="012" base="z012">
+                     <app n="d0e423">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Ik ben weer eens</rdg>
+                     </app> vast overtuigd dat dit mijn laatste geschrijf zal zijn.</seg>
+                  <seg n="013" base="z013">Het gaat immers niet aan, voor iemand die  vrouw en kinderen <app n="d0e424">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ten laste</rdg>
+                     </app> heeft, zich telkens <pb ed="AdsD3 " n="2" corresp=""/> af te zonderen om <app n="d0e425">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">de leden van zijn gezin en zijn eigen binnenste</rdg>
+                     </app> van uit een hoek te <app n="d0e427">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">gaan</rdg>
+                     </app> bespieden<app n="azze427">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> en ze een voor een onder het mes te nemen om uit hun bloed voor vreemden een filtraat te bereiden.</seg>
+                  <seg n="014" base="z014">Mijn  plicht gebiedt mij <app n="d0e428">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">op de brug</rdg>
+                     </app> te blijven in plaats van af en toe te komen kijken of het schip nog drijft.</seg>
+                  <seg n="015" base="z015">En <app n="azze428">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">moet</rdg>
+                     </app> ik na <app n="d0e413">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> geploeter niet telkens weer gluiperig in mijn huiskring plaats nemen<app n="d0e429">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> als een die niets <app n="d0e414">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">ontheiligd</rdg>
+                     </app>
+                     <app n="d0e415">
+                        <rdg wit="AdsD2 AdsD3 "/>
+                     </app> die niets op zijn geweten heeft?</seg>
+               </p>
+            </div>
+            <div type="subsectie"
+                 org="uniform"
+                 sample="complete"
+                 part="N"
+                 TEIform="div">
+               <lb ed="AdsD1 AdsD2 " TEIform="lb"/>
+               <lb ed="AdsD1 AdsD2 " TEIform="lb"/>
+               <head TEIform="head">III</head>
+               <p TEIform="p">
+                  <seg n="016" base="z016">Verduiveld, dat zou geen slecht begin zijn.</seg>
+                  <seg n="017" base="z017">Mijn poëtische bevliegingen  zal ik voorstellen als het bereizen van een vreemd land, waarvan de lokstem mij komt tergen als ik vreedzaam bij onze kachel zit.</seg>
+                  <seg n="018" base="z018">Een land  vol heerlijkheid dat mij toch geen voldoening geeft, zeker omdat er geen voldoening in mij te krijgen is.</seg>
+                  <seg n="019" base="z019">Ontevreden geleefd, ontevreden sterven.<app n="azze429">
+                        <rdg wit="AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="020" base="z020">Ik <app n="azze431">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">kon</rdg>
+                     </app> de eerste zinnen nu wel neerzetten, dunkt mij.</seg>
+                  <seg n="021" base="z021">En ik begin:</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="022" base="z022">
+                     <hi rend="i">Ik kom thuis van een reis en vind alles voor mij gereed staan.</hi>
+                  </seg>
+                  <seg n="023" base="z023">
+                     <hi rend="i">Vrouw en kinderen hebben gedaan alsof ik niet weg was geweest en mijn vrouw heeft mijn souper opgediend.</hi>
+                  </seg>
+                  <seg n="024" base="z024">Punt.<lb ed="AdsM2a " TEIform="lb"/>
+                     <lb ed="AdsM2a " TEIform="lb"/>
+                  </seg>
+                  <seg n="025" base="z025">Ik herlees en ga aan 't huiveren voor die banaliteit.</seg>
+                  <seg n="026" base="z026">
+                     <app n="d0e430">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD4 AdsD2 AdsD3 AdsZM2 AdsZM3 ">Zoo</rdg>
+                     </app> iets kan geen  <app n="d0e431">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD4 AdsD2 AdsD3 AdsZM2 AdsZM3 ">mensch</rdg>
+                     </app> schelen, dat staat vast.</seg>
+                  <seg n="027" base="z027">
+                     <app n="d0e432">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD4 AdsD2 AdsD3 AdsZM2 AdsZM3 ">Zooals</rdg>
+                     </app> zij daar staat is <app n="d0e433">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">het een reis</rdg>
+                     </app> geweest naar Brussel of hoogstens naar Parijs, <app n="azze432">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">want van hier uit is Brussel niet eens een reis</rdg>
+                     </app>.<app n="azze433">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                  </seg>
+                  <seg n="028" base="z028">Maar zeker is het  geen  reis <app n="azze434">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">geweest</rdg>
+                     </app> naar dat heerlijke land.</seg>
+                  <seg n="029" base="z029">Ik <app n="azze435">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zal dus liever</rdg>
+                     </app> thuis <app n="azze435">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">komen</rdg>
+                     </app>  van <app n="azze436">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">
+                           <hi rend="i">die</hi> reis</rdg>
+                     </app>, je weet wel, of beter nog van <app n="azze437">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i">de</hi>
+                        </rdg>
+                     </app> reis<app n="azze438">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, dus van de</rdg>
+                     </app> reis bij uitnemendheid.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <seg n="030" base="z030">
+                     <pb ed="AdsD3 " n="3" corresp=""/> Maar waarom ben ik <app n="d0e434">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD4 AdsD2 AdsD3 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> plotseling op reis gegaan?</seg>
+                  <seg n="031" base="z031">Doe ik dat soms meer?</seg>
+                  <seg n="032" base="z032">Natuurlijk, <app n="d0e436">
+                        <rdg wit="AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">dààr</rdg>
+                     </app> zit hem de knoop.</seg>
+                  <seg n="033" base="z033">Eén <app n="azze440">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">reis</rdg>
+                     </app> kan geen kwaad<app n="azze441">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> en valt niet op,</rdg>
+                     </app> wel dat stelselmatig trekken, alsof het een plicht was.</seg>
+                  <seg n="034" base="z034">
+                     <hi rend="i">Voor de <app n="d0e437">
+                           <rdg wit="AdsM1 AdsD1 AdsD2 AdsD3 AdsD4 ">zooveelste</rdg>
+                        </app> maal kom ik thuis van de reis.</hi>
+                  </seg>
+                  <seg n="035" base="z035">
+                     <app n="azze442">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="azze443">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">O.K.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="036" base="z036">Nu is dat geen reis naar Parijs meer, want wat zou ik daar voortdurend gaan uitvoeren?</seg>
+                  <seg n="037" base="z037">Nu is het een rare reis,  een tocht naar een vreemdsoortig oord en voor <app n="d0e439">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> lezer durf ik hopen dat hij nu geen <app n="azze444">
+                        <rdg wit="AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 ">aardrijkskundig</rdg>
+                     </app>
+                     <app n="d0e440">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">preciseeren</rdg>
+                     </app> meer verwacht.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="038" base="z038">
+                     <hi rend="i">En vind alles <app n="azze446">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">voor mij</rdg>
+                        </app> gereed staan.</hi>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="039" base="z039">Hum.</seg>
+                  <seg n="040" base="z040">Die <app n="azze447">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">alles</rdg>
+                     </app> is erg overdreven.</seg>
+                  <seg n="041" base="z041">Alles roept geen enkel beeld op.</seg>
+                  <seg n="042" base="z042">Alles of niets is precies hetzelfde<app n="azze448">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+                  <seg n="043" base="z043">
+                     <hi rend="i">Wat</hi> staat er eigenlijk gereed of beter nog wat behoorde gereed te staan  indien mijn gezin een sterke tegenpartij was.</seg>
+                  <seg n="044" base="z044">Dingen natuurlijk die mij <app n="azze449">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">reeds</rdg>
+                     </app> bij 't binnenkomen duidelijk maken dat zij geen <app n="d0e442">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">oogenblik</rdg>
+                     </app> gevreesd of gehoopt hebben dat ik lang zou uitblijven.</seg>
+                  <seg n="045" base="z045">
+                     <app n="azze450">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Een stoel</rdg>
+                     </app> is zeker geschikt.</seg>
+                  <seg n="046" base="z046">Verder een <app n="azze451">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">tafel</rdg>
+                     </app> en een <app n="azze452">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">bed</rdg>
+                     </app>, klaar om mij te ontvangen, de tafel voor de kauwpartij en 't <app n="azze453">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">bed</rdg>
+                     </app> om een eind te maken aan  die <app n="azze454">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>grap.</seg>
+                  <seg n="047" base="z047">Eindelijk mijn <app n="azze455">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">pantoffels</rdg>
+                     </app> en nog wel bij 't <app n="azze456">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vuur</rdg>
+                     </app> om mij <app n="azze457">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">goed in te prenten</rdg>
+                     </app> dat dit de plaats is voor een man op jaren <app n="azze458">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">met</rdg>
+                     </app> een gezin op zijn geweten<app n="azze458">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+                  <seg n="048" base="z048">Wat heeft <app n="d0e443">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> asthmalijder van doen in <app n="d0e444">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                     </app> land waar misschien <app n="azze460">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">wel</rdg>
+                     </app>
+                     <app n="d0e445">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bordeelen</rdg>
+                     </app> zijn maar zeker geen behoorlijk vuur noch dito pantoffels.</seg>
+                  <seg n="049" base="z049">Dus: <hi rend="i">
+                        <app n="azze461">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En</rdg>
+                        </app> weer staat mijn stoel gereed, tafel en bed gedekt, pantoffels bij 't vuur, alsof ik <app n="d0e447">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">iederen</rdg>
+                        </app> dag verwacht werd.</hi>
+                  </seg>
+                  <seg n="050" base="z050">Want zij <hi rend="i">hebben</hi> mij verwacht, de smeerlappen.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="051" base="z051">
+                     <hi rend="i">Vrouw en kinderen hebben gedaan<app n="d0e448">
+                           <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">,</rdg>
+                        </app> alsof ik niet weg was geweest.</hi>
+                  </seg>
+                  <lb ed="AdsT1 AdsM3a " TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="052" base="z052">Dat <app n="azze462">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">gedaan</rdg>
+                     </app>
+                     <app n="d0e449">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">bevalt mij niet</rdg>
+                     </app>.</seg>
+                  <seg n="053" base="z053">
+                     <app n="xxx450">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>Er zit een <app n="d0e450">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">ge<pb ed="AdsD3 " n="4" corresp=""/>meene</rdg>
+                     </app> truc in<app n="xyx450">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, want </rdg>
+                     </app>
+                     <app n="azze464">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">het</rdg>
+                     </app> dient <app n="azze463">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">slechts</rdg>
+                     </app> om mij te verlossen <app n="d0e451">
+                        <rdg wit="AdsD3 ">voor</rdg>
+                     </app> 't zoeken naar wat zij <app n="azze465">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">werkelijk</rdg>
+                     </app> gedaan hebben.</seg>
+                  <seg n="054" base="z054">
+                     <hi rend="i">Wat</hi> hebben zij gedaan?</seg>
+                  <seg n="055" base="z055">Zeggen kerel<app n="f0e411">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> als je kunt.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="056" base="z056">Laat ik <app n="azze466">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">mij</rdg>
+                     </app> even afzonderen<app n="azze467">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">: ik</rdg>
+                     </app> maak stilletjes de deur open en schuif binnen.</seg>
+                  <seg n="057" base="z057">Dan zeggen mijn kinderen, uit gewoonte, beleefd <app n="d0e452">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">goeden</rdg>
+                     </app> dag,  want ook een dolende hond van een vader blijft toch je vader.</seg>
+                  <seg n="058" base="z058">
+                     <app n="azaa468">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Beleefdheid voor alles.</rdg>
+                     </app>
+                  </seg> 
+                  <seg n="059" base="z059">
+                     <app n="azze468">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Als je iemand aantreft in een onbehoorlijke houding, dan doe je <app n="azze469">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">nog</rdg>
+                           </app> of je hem niet ziet.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="060" base="z060">Dus hebben zij "dag vader" gezegd.</seg>
+                  <seg n="061" base="z061">Of beter nog "dag Pa"<app n="azze470">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> want  <app n="azze471">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">"dag vader"</rdg>
+                     </app> is wel erg theatraal.</seg>
+                  <seg n="062" base="z062">Op <app n="d0e453">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> "dag vader" zou alleen een somber "dag kinderen" kunnen volgen en nog wel met gefronste wenkbrauwen.</seg>
+                  <seg n="063" base="z063">En ik ben allerminst van plan op een melodrama aan te sturen.</seg>
+                  <seg n="064" base="z064">Zou ik <app n="d0e454">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">die</rdg>
+                     </app> "dag" <app n="azze472">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">niet samen met <app n="d0e455">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">dien</rdg>
+                           </app> vader</rdg>
+                     </app> over boord flikkeren?</seg>
+                  <seg n="065" base="z065">Dus "Pa" <app n="azze473">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">in stede</rdg>
+                     </app> van "dag Pa"?<app n="azze474">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                  </seg>
+                  <seg n="066" base="z066">Natuurlijk.</seg>
+                  <seg n="067" base="z067">Pa <app n="azze475">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">kan</rdg>
+                     </app> immers <app n="d0e456">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">niet</rdg>
+                     </app> anders <app n="d0e457">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">beteekenen</rdg>
+                     </app> dan <app n="azze476">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dag Pa</rdg>
+                     </app>
+                     <app n="azze477">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="068" base="z068">Pa alleen is trouwens <app n="azze478">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>huiselijker, inniger,<app n="d0e459">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> </rdg>
+                     </app>vertrouwelijker,<app n="d0e459">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> </rdg>
+                     </app>minder <app n="azze480">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vermoeiend en minder gedwongen</rdg>
+                     </app>.</seg>
+                  <seg n="069" base="z069">Iets als "schipper<app n="azze481">
+                        <rdg wit="AdsM1 AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">!</rdg>
+                     </app>" of <app n="azze483">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>het gemoedelijke "bakker<app n="azze482">
+                        <rdg wit="AdsM2d AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">!</rdg>
+                     </app>" van <app n="d0e460">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">iederen</rdg>
+                     </app> ochtend.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="070" base="z070">
+                     <hi rend="i">
+                        <app n="xyz4z1">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1b AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Mijn</rdg>
+                        </app> kinderen hebben heel gewoon <app n="d0e461">
+                           <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">"Pa"</rdg>
+                        </app> gezegd en mijn vrouw heeft mijn souper opgediend.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="071" base="z071">Bij nadere beschouwing steekt dat souper mij tegen.</seg>
+                  <seg n="072" base="z072">Als <app n="d0e462">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> recidivist in het dolen recht heeft op een souper, dan  kan men <app n="d0e463">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">onzen</rdg>
+                     </app> poedel óók laten <app n="d0e464">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">soupeeren</rdg>
+                     </app>.</seg>
+                  <seg n="073" base="z073">Trouwens, al <app n="d0e465">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsZM2 AdsZM3 ">is</rdg>
+                     </app> het voorgezette in substantie werkelijk een souper, ook dan nog zou ikzelf bij <app n="d0e466">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app>
+                     <app n="azze484">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">terugkeer</rdg>
+                     </app> weigeren te <app n="d0e467">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">soupeeren</rdg>
+                     </app>.</seg>
+                  <seg n="074" base="z074">Ik kan hoogstens <app n="azze485">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">eten</rdg>
+                     </app> en daarmee  uit.</seg>
+                  <seg n="075" base="z075">Maar ik weiger beslist tot <app n="azze486">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ritueel</rdg>
+                     </app>
+                     <app n="d0e468">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">soupeeren</rdg>
+                     </app> over te gaan.</seg>
+                  <seg n="076" base="z076">Wie zich schuldig voelt kan immers niet nalaten bovendien nog te <app n="d0e469">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">manifesteeren</rdg>
+                     </app>
+                     <app n="azze487">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="077" base="z077">En een die <pb ed="AdsD3 " n="5" corresp=""/> betrapt wordt bij een verkrachting<app n="azze488">
+                        <rdg wit="AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">, of zoo,</rdg>
+                     </app> kan voor 't zelfde geld gerust <app n="azze489">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">eens</rdg>
+                     </app>
+                     <app n="azze490">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>uitvloeken.</seg>
+                  <seg n="078" base="z078">Dat maakt de schanddaad niet erger.</seg>
+                  <seg n="079" base="z079">Het staat hem  zelfs beter dan <app n="d0e471">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> schijnheilig gezicht.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="080" base="z080">
+                     <hi rend="i">Mijn kinderen hebben heel gewoon "Pa" gezegd en mijn vrouw heeft mijn eten opgediend.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="081" base="z081">Dat schijnt mij nog steeds niet geheel in <app n="d0e472">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> haak.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f " TEIform="lb"/>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsT1 AdsM3a "
+                      TEIform="lb"/>
+                  <seg n="082" base="z082">Wordt een souper opgediend, met eten is <app n="azze492">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dat</rdg>
+                     </app> niet het geval.</seg>
+                  <seg n="083" base="z083">Eten wordt gegeven, voorgezet of genomen.</seg>
+                  <seg n="084" base="z084">
+                     <app n="azze493">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Bovendien komt het op het eten zelf</rdg>
+                     </app> minder <app n="d0e473">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">op</rdg>
+                     </app> aan, want dat <app n="d0e474">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> thuiskomst eindigt met eten en naar bed gaan, dat spreekt toch <app n="azze495">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">van zelf</rdg>
+                     </app>.</seg>
+                  <seg n="085" base="z085">En <app n="d0e475">
+                        <rdg wit="AdsM1 AdsM2a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 ">ik</rdg>
+                     </app> ben <app n="azze496">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">toch</rdg>
+                     </app> op zoek naar dingen die <hi rend="i">niet</hi> van zelf spreken.</seg>
+                  <seg n="086" base="z086">Mij dunkt dat  mijn vrouw iets zeggen moet, wat dan ook<app n="g0e411">
+                        <rdg wit="AdsM2a AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, anders zou haar aanwezigheid<app n="az0e412">
+                              <rdg wit="AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 "/>
+                           </app>
+                           <app n="g0e412">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">op de scène</rdg>
+                           </app> niet gerechtvaardigd zijn.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="087" base="z087">
+                     <app n="azze497">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En</rdg>
+                     </app> als zij volkomen zweeg dan zou zij mij ook zeker niets <app n="azze498">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="d0e477">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">voorzetten</rdg>
+                     </app>.</seg>
+                  <seg n="088" base="z088">Zij kon <app n="azze499">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dus</rdg>
+                     </app> vragen <app n="d0e478">
+                        <rdg wit="AdsD3 AdsD4 AdsP1a AdsP2 AdsD6 AdsZP1 ">
+                           <hi rend="i">eet jij</hi>?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="089" base="z089">Of beter nog <app n="d0e479">
+                        <rdg wit="AdsD3 AdsD4 AdsP1a AdsP2 AdsD6 AdsZP1 ">
+                           <hi rend="i">eet jij soms</hi>?,</rdg>
+                     </app> want <app n="g0e413">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsZM2 AdsZM3 AdsZP1 ">die</rdg>
+                     </app> soms <app n="azze500">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">sluit in</rdg>
+                     </app> dat zij aan een positief antwoord evenmin waarde hecht als <app n="d0e481">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">aan een</rdg>
+                     </app> negatief.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="090" base="z090">Neen, zij <app n="azze501">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">behoorde</rdg>
+                     </app> iets anders <app n="azze501">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">te</rdg>
+                     </app> zeggen.</seg>
+                  <seg n="091" base="z091">Iets dat treft als een mokerslag.</seg>
+                  <seg n="092" base="z092">Iets waardoor ik pas recht tot het besef kom dat ik werkelijk thuis  ben aangeland en niet in een of ander prieel van <app n="d0e482">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                     </app> land.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="093" base="z093">Ik denk opeens aan de restanten waaruit onze soupers gewoonlijk bestaan en besluit er toe <app n="azze502">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">een beroep te doen op een paar specialiteiten</rdg>
+                     </app> die de huiselijke sfeer sterk  <app n="d0e483">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">evokeeren</rdg>
+                     </app>.</seg>
+                  <seg n="094" base="z094">Iets waarvan de  lucht het <app n="d0e484">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heele</rdg>
+                     </app> huis doordringt.</seg> 
+                  <seg n="095" base="z095">Haring<app n="azze504">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="azze505">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">misschien?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="096" base="z096">Wel zeker, die haring is goed.</seg>
+                  <seg n="097" base="z097">
+                     <app n="azze506">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Bovendien nationaal.</rdg>
+                     </app>
+                  </seg> 
+                  <seg n="098" base="z098">
+                     <app n="azze507">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En in <app n="d0e485">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                           </app> land krijgt men geen haring</rdg>
+                     </app> en al kreeg men er haring<app n="azze508">
+                        <rdg wit="AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 ">,</rdg>
+                     </app> men zou het ruiken noch proeven, want de gewoonste dingen zijn <pb ed="AdsD3 " n="6" corresp=""/> er <app n="d0e486">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> heel anders.</seg>
+                  <seg n="099" base="z099">
+                     <app n="d0e487">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">Zoodra</rdg>
+                     </app> iemand in haring weer haring proeft is hij reeds op <app n="d0e488">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> terugweg naar <app n="d0e489">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> haard.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="100" base="z100">Nu nog een tweede gerecht<app n="azze509">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> om <app n="azze510">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">een</rdg>
+                     </app> keus mogelijk en de  vraag logisch te maken, liefst iets dat niet ruikt maar walgt<app n="azze511">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, want die <app n="d0e490">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">eene</rdg>
+                           </app> stank is voldoende.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="101" base="z101">Nieren?</seg>
+                  <seg n="102" base="z102">Maar als die klein zijn en met sluwheid klaargemaakt, dan merk je 't niet eens<app n="azze512">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, zeker niet op een <app n="d0e492">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">tooneel</rdg>
+                           </app>.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="103" base="z103">Neen, geen nieren.</seg>
+                  <seg n="104" base="z104">
+                     <app n="d0e493">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">Grooter</rdg>
+                     </app>, <app n="d0e494">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">hooger</rdg>
+                     </app> op<app n="azze513">
+                        <rdg wit="AdsM1 AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">!</rdg>
+                     </app>
+                  </seg>
+                  <seg n="105" base="z105">Laat nog meer kandidaten aantreden.</seg>
+                  <seg n="106" base="z106">Niemand moet verlegen zijn<app n="azze514">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> al zwemt hij in zijn vet of al druipt hij van 't bloed.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="107" base="z107">Wie is die <app n="d0e495">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bleeke</rdg>
+                     </app> daar, met zijn krulhaar?</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="108" base="z108">
+                     <app n="d0e496">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsZM2 AdsZM3 ">- </rdg>
+                     </app>Hersens<app n="d0e497">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 ">.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="109" base="z109">
+                     <app n="azze515">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Walgelijk</rdg>
+                     </app> genoeg.</seg>
+                  <seg n="110" base="z110">Maar de regisseur <app n="azze516">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vindt</rdg>
+                     </app> het ongewoon op een huiselijke tafel.</seg>
+                  <seg n="111" base="z111">Meer iets voor een restaurant.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="112" base="z112">En die dikke<app n="azze517">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> die door zijn knieën zakt?</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="113" base="z113">
+                     <app n="d0e498">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsZM2 AdsZM3 ">- </rdg>
+                     </app>Lever<app n="d0e499">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 ">.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="114" base="z114">Ja lever is goed.</seg>
+                  <seg n="115" base="z115">Lever <app n="azze518">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">van</rdg>
+                     </app> een oud beest, als die te krijgen is.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="116" base="z116"> En meteen ligt een bruine massa voor mij, midden door gesneden<app n="azze519">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> bij wijze van referentie,</rdg>
+                     </app>
+                     <app n="d0e500">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoodat</rdg>
+                     </app> ik inzage krijg in die ingekankerde gaten die als <app n="d0e501">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zooveel</rdg>
+                     </app> oogholten zijn.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="117" base="z117">Lever en nieren<app n="d0e502">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "> misschien</rdg>
+                     </app>?</seg>
+                  <seg n="118" base="z118">Maar dat is <app n="azze520">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>een pleonasme, want zij komen uit <app n="d0e503">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den zelfden</rdg>
+                     </app> buik, waar zij buren waren.</seg>
+                  <seg n="119" base="z119">Neen, ik laat mijn haring niet los.</seg>
+                  <seg n="120" base="z120">
+                     <app n="azze521">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Haring en lever.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="121" base="z121">Of liever <app n="azze522">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">lever en haring</rdg>
+                     </app>
+                     <app n="d1d507">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>  want die <app n="azze523">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">A</rdg>
+                     </app>-klank is beter voor de stembuiging bij 't laatste woord.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="122" base="z122">Met lever en haring is die vrouw tenminste gewapend.</seg>
+                  <seg n="123" base="z123">Zij kan mij nu de volle laag geven.</seg>
+                  <seg n="124" base="z124">
+                     <app n="d0e504">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <hi rend="i">Mijn kinderen hebben</hi>
+                     <app n="d0e505">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">
+                           <hi rend="i">dus</hi>
+                        </rdg>
+                     </app>
+                     <hi rend="i">heel gewoon Pa gezegd en mijn vrouw heeft gevraagd wat ik verkoos, lever of haring.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="125" base="z125">
+                     <pb ed="AdsD3 " n="7" corresp=""/> Wat kan <app n="azze525">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">iemand nu</rdg>
+                     </app> in 's hemelsnaam  op <app n="d0e506">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> vraag antwoorden?</seg>
+                  <lb ed="AdsM1 AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <seg n="126" base="z126">Niets.</seg>
+                  <seg n="127" base="z127">Want die vraag <hi rend="i">is</hi> geen vraag.</seg>
+                  <seg n="128" base="z128">Wanneer men iemand bij zijn thuiskomst geen andere keus laat dan <app n="d0e507">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">tusschen</rdg>
+                     </app> lever en haring, dan heeft dat quasi vragen slechts voor doel beide afschuwelijke dingen nog eens helder bij hun naam te noemen opdat hij die aan 't eten gaat goed zou weten <app n="azze526">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">waar hij aan toe is</rdg>
+                     </app>.</seg>
+                  <seg n="129" base="z129">Hij kon nog wel eens met één voet in <app n="d0e508">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                     </app> land staan en denken dat die lever geen lever is, maar een grap.</seg>
+                  <seg n="130" base="z130">To be  hung by the neck <app n="azze527">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">is niet voldoende, maar  to be hung by the neck</rdg>
+                     </app>
+                     <app n="d0e509">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">untill</rdg>
+                     </app> death follows.</seg>
+                  <seg n="131" base="z131">Goed <app n="d0e510">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app>.</seg>
+                  <seg n="132" base="z132">Nog gauw even lekker walgen voor ook die  portie lever tot het verleden behoort.</seg>
+                  <lb ed="AdsT1 AdsM3a AdsZM2 " TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="133" base="z133">Neen, een vraag is het niet.</seg>
+                  <seg n="134" base="z134">Het staat <app n="d0e511">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">hooger</rdg>
+                     </app>.</seg>
+                  <seg n="135" base="z135">Als <app n="azzeR12">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">men vuil  van de kat in de kamer vindt</rdg>
+                     </app> dan wordt ook haar gevraagd of zij dat gedaan heeft.</seg>
+                  <seg n="136" base="z136">En meteen wordt zij er ingewreven, zonder dat op <app n="d0e512">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">eenig</rdg>
+                     </app> antwoord wordt gewacht.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="137" base="z137">Dus: <hi rend="i">
+                        <app n="azze529">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ik</rdg>
+                        </app> heb niet geantwoord.</hi>
+                  </seg>
+                  <seg n="138" base="z138">Toch dient hier misschien gezegd <hi rend="i">waarom</hi> ik gezwegen heb, want op die vraag, die geen vraag was, kon ik best antwoorden met iets dat geen antwoord is<app n="azze530">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="139" base="z139">
+                     <app n="azze531">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Met</rdg>
+                     </app>
+                     <app n="azze532">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i">verrek</hi>
+                        </rdg>
+                     </app>
+                     <app n="azze533">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>bij voorbeeld.</seg>
+                  <seg n="140" base="z140">In 't leven plat en brutaal<app n="azze534">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="azze535">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zou het</rdg>
+                     </app> in dit litterair landschap zeker passen.</seg>
+                  <seg n="141" base="z141">Scheldt Othello die schat niet doodgewoon voor hoer?</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="142" base="z142">Het <app n="d4e513">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 ">stellen van</rdg>
+                     </app> dergelijke vragen <app n="d55513">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 "/>
+                     </app>stemt mij echter <app n="d0e513">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app>  verdrietig dat ik bang ben voor mijn eigen stem.</seg>
+                  <seg n="143" base="z143">Want klinkt  <app n="d0e514">
+                        <rdg wit="AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 ">die neerslachtig, dan jubelt de tegenstander.</rdg>
+                     </app>
+                     <ptr corresp="AdsD4"
+                          type="right"
+                          target="AdsD4"
+                          targOrder="U"
+                          TEIform="ptr"/>
+                  </seg>
+                  <seg n="144" base="z144">
+                     <app n="d0e514">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En klinkt</rdg>
+                     </app>
+                     <ptr corresp="AdsD4"
+                          type="left"
+                          target="AdsD4"
+                          targOrder="U"
+                          TEIform="ptr"/> zij <app n="d0e515">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">valsch</rdg>
+                     </app> dan schaam ik mij dood.</seg>
+                  <seg n="145" base="z145">Ik heb dus niet geantwoord omdat ik niet kiezen kon <app n="d0e516">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">tusschen</rdg>
+                     </app> een <app n="azze539">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">neerslachtig</rdg>
+                     </app> maar oprecht antwoord <app n="azze540">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">in 't bijzijn van die lever, </rdg>
+                     </app>en een dat sist of snauwt maar mij on<pb ed="AdsD3 " n="8" corresp=""/>voldaan zou laten zitten.</seg>
+                  <seg n="146" base="z146">Dus<app n="azze541">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <hi rend="i">omdat ik <app n="d0e517">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                        </app> moed niet had mijn eigen stem aan te <app n="d0e518">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">hooren</rdg>
+                        </app>.</hi>
+                  </seg>
+                  <lb ed="AdsM1 AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsT1 AdsM3a "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="147" base="z147">
+                     <app n="azze543">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Als ik niet antwoord moet ik iets doen, of  het publiek verlaat de zaal.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="148" base="z148">
+                     <hi rend="i">
+                        <app n="azze544">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Ik heb dus maar</rdg>
+                        </app> een stuk van die lever genomen.</hi>
+                  </seg>
+                  <seg n="149" base="z149">Neen<app n="d0e519">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app> geen lever meer, in Gods <app n="d0e520">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heiligen</rdg>
+                     </app> naam.</seg>
+                  <seg n="150" base="z150">Trouwens, waarom lever en geen haring<app n="d0e521">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="151" base="z151">
+                     <app n="azze545">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Waarom die haring <app n="d0e522">
+                              <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">achter gesteld</rdg>
+                           </app>?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="152" base="z152">Goed<app n="azze546">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+                  <seg n="153" base="z153">Haring dan.</seg>
+                  <seg n="154" base="z154">Maar wat dan met die lever<app n="azze547">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> die mij nog steeds aankijkt met al die <app n="d0e523">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">oogen</rdg>
+                     </app>.</seg>
+                  <seg n="155" base="z155">Neen<app n="azze548">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+                  <seg n="156" base="z156">Weg er mee.</seg>
+                  <seg n="157" base="z157">Ik heb jullie heel even <app n="d0e524">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">noodig</rdg>
+                     </app> gehad als een <app n="d0e525">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bloedroode</rdg>
+                     </app> vlek in een grisaille, maar <app n="azze550">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">blijft mij van het lijf</rdg>
+                     </app>.</seg>
+                  <seg n="158" base="z158">Vade retro, satanas.</seg>
+                  <seg n="159" base="z159">Good bye to both of you.</seg>
+                  <seg n="160" base="z160">En wel te rusten.</seg>
+                  <seg n="161" base="z161">Er stonden immers nog andere dingen op<app n="d0e526">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app> tafel?</seg>
+                  <seg n="162" base="z162">Als mijn vrouw alleen die twee bij name genoemd heeft dan was het omdat alleen die twee in staat waren <app n="azze551">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">het publiek in de zaal te schokken, de haring door <app n="d0e527">
+                              <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">die</rdg>
+                           </app> lucht en de lever door die <app n="d0e528">
+                              <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">oogen</rdg>
+                           </app>.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="163" base="z163">
+                     <app n="azze5552">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Verwacht het publiek geen emotie voor <app n="d0e529">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zijn</rdg>
+                           </app> geld?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="164" base="z164">Trouwens, weet een <app n="d0e530">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">mensch</rdg>
+                     </app> wat hij in <app n="d0e531">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> stemming eet?</seg>
+                  <seg n="165" base="z165">Als hij <app n="azze553">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">daar zit met een brok in de keel</rdg>
+                     </app> dat bijna niets doorlaat <app n="d0e532">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoodat</rdg>
+                     </app> alles <app n="d0e533">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">een zelfden</rdg>
+                     </app>
+                     <app n="d0e534">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">grijzen</rdg>
+                     </app> smaak heeft?</seg> 
+                  <seg n="166" base="z166">Niet alleen wil ik niet antwoorden, ik wil niet eens weten wat ik eet.</seg>
+                  <seg n="167" base="z167">Als dat kon zou ik zelfs niet willen weten dat ik überhaupt aan 't eten ben.</seg>
+                  <seg n="168" base="z168">En <app n="azze555">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1b AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vooral</rdg>
+                     </app> vrees ik door een keus op de tafel te laten blijken dat het <app n="azze556">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">thuis zijn</rdg>
+                     </app> volkomen tot mijn bewustzijn is doorgedrongen en mijn tevredenheid wegdraagt.</seg>
+                  <seg n="169" base="z169"> Ik wil daar  nog wat zitten als zat ik in een droom.</seg>
+                  <seg n="170" base="z170">
+                     <app n="azze557">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Als ik in mijn rug  het meevoelen van 't publiek gewaar word, dan pas kom ik in beweging en neem <app n="d0e5359">
+                              <rdg wit="AdsM2a AdsM1 AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                           </app> maar iets.</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="171" base="z171">
+                     <hi rend="i">Ik heb <app n="azze558">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dus</rdg>
+                        </app> de hand uitgestoken naar wat het <app n="d0e5360">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dichtst</rdg>
+                        </app> bij stond en zwijgend gesoupeerd.</hi>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="172" base="z172">
+                     <pb ed="AdsD3 " n="9" corresp=""/> Neen, alsjeblieft niet.</seg>
+                  <seg n="173" base="z173">Geen <app n="d0e5361">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">soupeeren</rdg>
+                     </app> op <app n="d0e5362">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> plechtig <app n="d0e5363">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">oogenblik</rdg>
+                     </app>.</seg>
+                  <seg n="174" base="z174">Soupeert men na 't begraven van vrouw of kind?</seg>
+                  <seg n="175" base="z175">
+                     <app n="azze559">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Zich bezuipen zou nog gaan.</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="176" base="z176">
+                     <hi rend="i">En zwijgend gegeten</hi>
+                     <app n="d0e5364">
+                        <rdg wit="AdsD3 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">?</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="177" base="z177">Ook niet.</seg>
+                  <seg n="178" base="z178">Spreekt van zelf.</seg>
+                  <seg n="179" base="z179">Als ik eenmaal <app n="d0e5365">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo ver</rdg>
+                     </app> ben dat ik de hand naar iets <app n="d0e5366">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">uitgestoken heb</rdg>
+                     </app>, dan moet daar immers op volgen dat ik aan 't eten ga.</seg>
+                  <seg n="180" base="z180">
+                     <app n="azze560">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Kan ik daar roerloos blijven staan met dat voedsel in de hand?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="181" base="z181">Hoeft dus niet gezegd.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f " TEIform="lb"/>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsT1 AdsM3a "
+                      TEIform="lb"/>
+                  <seg n="182" base="z182">Welnu dan, <app n="azze562">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i">ik heb</hi>
+                        </rdg>
+                     </app>
+                     <hi rend="i">zwijgend mijn maag gevuld.</hi>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="183" base="z183">
+                     <app n="azze563">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Goedgekeurd.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="184" base="z184">Het vullen van die maag<app n="d0e5367">
+                        <rdg wit="AdsM1 AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "> </rdg>
+                     </app>bij wijze van souper<app n="azze564">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> is een verdiende straf<app n="azze565">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> voor dat dolen</rdg>
+                     </app>.</seg>
+                  <seg n="185" base="z185">En die maag, ook al is het de mijne, herinnert mij nog heel even aan die lever die, na zijn taak vervuld te hebben<app n="d0e5368">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> reeds wegdoezelt in <app n="d0e5369">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> achtergrond.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="186" base="z186">Dus: <hi rend="i">heb ik de hand uitgestoken naar wat het dichtst bij stond en zwijgend mijn maag gevuld.</hi>
+                  </seg>
+                  <seg n="187" base="z187">
+                     <app n="d0e5370">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">Zoo</rdg>
+                     </app> is het<app n="azze566">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>.</seg>
+                  <seg n="188" base="z188">En ter wille van de poëzie zal ik maar <app n="azze567">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> verzwijgen dat het mij gesmaakt heeft.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="189" base="z189">
+                     <hi rend="i">Zij schijnen geweten te hebben dat ik <app n="d0e5371">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">terugkeeren</rdg>
+                        </app> zou en dat vind ik vervelend.</hi>
+                  </seg>
+                  <seg n="190" base="z190">
+                     <hi rend="i">Maar had ik mij boos gemaakt dan zou ik, om logisch te zijn, weer hebben moeten opstappen.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="191" base="z191">Alweer een gruwel, <app n="d0e5372">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zooals</rdg>
+                     </app> het daar staat.</seg>
+                  <seg n="192" base="z192">Neen, <app n="azze568">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">man,</rdg>
+                     </app>
+                     <app n="azze569">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zij</rdg>
+                     </app>
+                     <hi rend="i">schijnen</hi> dat niet geweten te hebben, zij <hi rend="i">wisten</hi> het.</seg>
+                  <seg n="193" base="z193">Zij waren er <hi rend="i">zeker</hi> van.</seg>
+                  <seg n="194" base="z194">Zij waren er <hi rend="i">gerust</hi> in.</seg>
+                  <seg n="195" base="z195">
+                     <app n="d0e5374">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsZM2 AdsZM3 ">On ne te gobe pas.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="196" base="z196">Dat <app n="xyz5b74">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1b AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dolen</rdg>
+                     </app> behoort tot je onschadelijke excentriciteiten, waar zij al jaren pret in hebben.</seg>
+                  <seg n="197" base="z197">Ik zit nog  niet aan tafel of zij kaarten <app n="azze570">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">reeds</rdg>
+                     </app>
+                     <app n="d0e5375">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsZM2 AdsZM3 ">door</rdg>
+                     </app>.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="198" base="z198">
+                     <hi rend="i">Hun gerustheid, hun zekerheid dat ik ook ditmaal <app n="d0e5376">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">terugkeeren</rdg>
+                        </app> zou, heb ik vervelend gevonden.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="199" base="z199">Neen, niet vervelend, vriendlief.</seg>
+                  <seg n="200" base="z200">Dat woord <app n="azze571">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> is <app n="azze572">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="d0e5377">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app>
+                     <pb ed="AdsD3 " n="10" corresp=""/> ongezouten dat het <app n="azze573">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zelf</rdg>
+                     </app> vervelend is.</seg>
+                  <seg n="201" base="z201">Ik zou het misschien <app n="azze574">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vervelend</rdg>
+                     </app> gevonden hebben indien zij een <app n="d0e5379">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">oogenblik</rdg>
+                     </app> hadden gedacht dat ik nooit meer <app n="d0e5380">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">terugkeeren</rdg>
+                     </app> zou, dus dat ik stapelgek geworden was.</seg>
+                  <seg n="202" base="z202">Maar hun <app n="azze577">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">gerustheid</rdg>
+                     </app>
+                     <app n="azze576">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app>
+                     <app n="azze578">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">hun zekerheid</rdg>
+                     </app> heeft mij <hi rend="i">beschaamd</hi> en <hi rend="i">diep gegriefd</hi>.</seg>
+                  <seg n="203" base="z203">Gegriefd of diep gegriefd?</seg>
+                  <seg n="204" base="z204">Gegriefd is altijd diep<app n="azze580">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="205" base="z205">
+                     <app n="azze581">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Maar</rdg>
+                     </app>
+                     <app n="azze582">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">de regisseur</rdg>
+                     </app> laat <app n="azze583">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> diep toch  staan<app n="azze5850">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> want dat leest beter<app n="azze586">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> zegt hij</rdg>
+                     </app>.</seg>
+                  <seg n="206" base="z206">Gegriefd is <app n="d0e5381">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo'n</rdg>
+                     </app> woord waaraan een lettergreep schijnt te ontbreken.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="207" base="z207">
+                     <hi rend="i">Maar had ik mij boos gemaakt.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="208" base="z208">Echt slap is dat boos.</seg>
+                  <seg n="209" base="z209">Ik kan mij boos maken als zij de kachel laten uitgaan, maar  <hi rend="i">had</hi> ik gereageerd, wat ik niet gedaan heb, dan hadden zij wat te <app n="d0e5383">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">hooren</rdg>
+                     </app> gekregen.</seg>
+                  <seg n="210" base="z210">Een storm, mijnheer.</seg>
+                  <seg n="211" base="z211">Een geloei.</seg>
+                  <seg n="212" base="z212">Een <app n="azze587">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">gebulder</rdg>
+                     </app>.</seg>
+                  <seg n="213" base="z213">Dus: <hi rend="i">maar was ik aan  't bulderen gegaan.</hi>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="214" base="z214">Nu, wat zou er op dat <app n="azxe588">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">fameus</rdg>
+                     </app> gebulder <app n="azze588">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> gevolgd zijn?</seg>
+                  <seg n="215" base="z215">
+                     <app n="azxe589">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Stilte</rdg>
+                     </app>
+                     <app n="azze589">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> natuurlijk en verder niets<app n="azze589">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> want ik denk er niet aan mijn huisraad stuk te slaan.</seg>
+                  <seg n="216" base="z216">Ook  niet aan ranselen, want mijn vrouw is mij te lief en die jongens te sterk.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="217" base="z217">
+                     <app n="azze590">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i">Dan</hi>
+                        </rdg>
+                     </app>
+                     <hi rend="i">had er dus <app n="d0e5384">
+                           <rdg wit="AdsM1 AdsM2f AdsM3b AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">niets</rdg>
+                        </app> op overgeschoten, om logisch te zijn, dan met weerzin weer op te staan.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="218" base="z218">Dat <app n="azze591">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">logische</rdg>
+                     </app> hangt mij de keel uit.</seg>
+                  <seg n="219" base="z219">
+                     <hi rend="i">Onlogisch</hi> zou <app n="azze592">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dan</rdg>
+                     </app> nog beter zijn, want het logische is de haard, dus thuis blijven.</seg>
+                  <seg n="220" base="z220">Weg <app n="azze594">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i"/>
+                        </rdg>
+                     </app> met die logika.</seg>
+                  <seg n="221" base="z221">Heraus.</seg>
+                  <seg n="222" base="z222">Dus: <hi rend="i">had er niets op overgeschoten dan met weerzin weer op te staan.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="223" base="z223">Ik zal nu maar in eens verklaren <app n="azze595">
+                        <rdg wit="AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM3 ">
+                           <hi rend="i">dat het trekken mij niet meer lokt,</hi>
+                        </rdg>
+                     </app>
+                     <app n="azze596">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">want ik moet opschieten.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="224" base="z224">Volkomen eerlijk is dat anders niet, want het trekken lokt mij nog steeds, al gaat die neiging diminuendo<app n="azze597">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, net  als mijn eetlust.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="225" base="z225">
+                     <app n="azze598">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Ik denk echter nu reeds</rdg>
+                     </app> aan mijn kleinzoon die aan 't slot de hoofdrol spelen moet <pb ed="AdsD3 " n="11" corresp=""/> en die mij moet opwekken tot een <app n="d0e5386">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">laatsten</rdg>
+                     </app> tocht.</seg>
+                  <seg n="226" base="z226">En hoe vaster ik bij <app n="d0e5387">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app>  haard geankerd zit, des te treffender zal zijn ingrijpen zijn.</seg>
+                  <seg n="227" base="z227">
+                     <app n="azze600">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Doorliegen dus.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="228" base="z228">'t Is hier <app n="azze601">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">immers</rdg>
+                     </app> een schouwburg<app n="azze602">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="229" base="z229">En in dit geval is liegen heilige plicht, ter <app n="d0e5388">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">eere</rdg>
+                     </app> van dat kind<app n="azze604">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> wiens pad ik reeds <app n="d0e5389">
+                        <rdg wit="AdsM1 AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">vanaf</rdg>
+                     </app> de eerste bladzijde effenen moet, ook al verschijnt hij pas heel achteraan, als <app n="d0e5391">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">het</rdg>
+                     </app> bouquet <app n="d0e5392">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">bij</rdg>
+                     </app> een vuurwerk.</seg>
+                  <seg n="230" base="z230">Ik heb vroeger <app n="azze605">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> gezegd dat men van  in 't begin het oog moet houden op het slotakkoord, waarvan iets door 't <app n="d0e5393">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heele</rdg>
+                     </app> verhaal geweven moet worden, als het leitmotief door een symphonie<app n="azze606">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="231" base="z231">
+                     <app n="azze607">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En ik moet koken volgens eigen recept.</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZM2 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsM2a " TEIform="lb"/>
+                  <seg n="232" base="z232">Nu nog wat schmink, want <app n="d0e5394">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> staat die leugen daar toch te naakt.</seg>
+                  <seg n="233" base="z233">Ik zal er dus <app n="azze609">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">maar</rdg>
+                     </app> aan toevoegen: <hi rend="i">dat ik vermoeid ben en het licht van <app n="d0e5395">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                        </app> land niet meer verdragen kan.</hi>
+                  </seg>
+                  <seg n="234" base="z234">
+                     <app n="azze610">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Geen reactie in de zaal?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="235" base="z235">
+                     <app n="azze611">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Niemand die <app n="azze613">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                           </app> zonnebril <app n="azze614">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">roept?</rdg>
+                           </app>
+                        </rdg>
+                     </app>
+                  </seg>
+                  <seg n="236" base="z236">
+                     <app n="azze612">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Nogmaals O.K.</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="237" base="z237">
+                     <app n="azze615">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Toch is het</rdg>
+                     </app>
+                     <app n="d0e5396">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> ongevraagd affirmatief <app n="azze616">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> dat een psychologische opheldering niet <app n="d0e5397">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">mag</rdg>
+                     </app> uitblijven.</seg>
+                  <seg n="238" base="z238">Ik zie echter geen kans om een leugen door uitleg tot <app n="azze617">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> waarheid om te werken.</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="239" base="z239">Zou ik <app n="d0e5398">
+                        <rdg wit="AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app> niet liever vragend vertellen, <app n="azze620">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">regisseur</rdg>
+                     </app>?</seg>
+                  <seg n="240" base="z240">
+                     <hi rend="i">Ben ik vermoeid of kan ik het licht van <app n="d0e5399">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                        </app> land niet meer verdragen</hi>
+                     <app n="d0e5400">
+                        <rdg wit="AdsD3 AdsD4 AdsP1a AdsP2 AdsD6 AdsZP1 ">?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="241" base="z241">
+                     <app n="azze621">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Beter, dunkt mij.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="242" base="z242">Net of ik verdwaasd op het <app n="d0e5401">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">tooneel</rdg>
+                     </app> verschijn, de hand aan het voorhoofd, als een Hamletje.</seg>
+                  <seg n="243" base="z243">Wordt onder  die opsmuk de leugen van dat trekken, dat mij niet meer <app n="azze622">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">lokken zou</rdg>
+                     </app>, <app n="azze623">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> nog door iemand ontdekt, dan stuit hij toch even later op die  naïeve vraag<app n="azze624">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="244" base="z244">
+                     <app n="azze625">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En omdat het een vraag  is, omdat hij dus mijn lot in handen krijgt, zegt hij allicht ja.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="245" base="z245">
+                     <app n="azze627">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Want al jouwt hij gaarne, toch draagt hij <app n="azze628">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">liever niet</rdg>
+                           </app> de verantwoordelijkheid voor 't vallen van 't scherm.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="246" base="z246">
+                     <pb ed="AdsD3 " n="12" corresp=""/> Zelf ben ik echter nog niet voldaan.</seg>
+                  <seg n="247" base="z247">Om twijfel verder uit te sluiten<app n="azze629">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, al twijfelt nu niemand meer behalve ikzelf,</rdg>
+                     </app>  zal ik er nog aan toevoegen<app n="d0e5402">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">,</rdg>
+                     </app> dat <app n="d0e5403">
+                        <rdg wit="AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">ik</rdg>
+                     </app>
+                     <hi rend="i">voel dat van een <app n="d0e5404">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">volgenden</rdg>
+                        </app> tocht niets meer terecht komt.</hi>
+                  </seg>
+                  <seg n="248" base="z248">Voel is goed, want <app n="xyz54b4">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1b AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">wat</rdg>
+                     </app> ik persoonlijk <app n="azze630">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">voel</rdg>
+                     </app> kan niemand <app n="d0e5405">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">controleeren</rdg>
+                     </app>.</seg>
+                  <seg n="249" base="z249">Dat gaat een ander niet aan.</seg>
+                  <seg n="250" base="z250">Ik <app n="azze631">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">voel</rdg>
+                     </app> dat ik naar zee moet<app n="azze632">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> zegt die vrouw.</seg>
+                  <seg n="251" base="z251"> En die <app n="azze633">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> jongen <app n="azze634">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">voelt</rdg>
+                     </app> dat <app n="azze635">
+                        <rdg wit="AdsM1 AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">hij</rdg>
+                     </app> in dat  examen niet slagen zal.</seg>
+                  <seg n="252" base="z252">
+                     <app n="d0e5407">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Ik voel <hi rend="i">in ieder geval</hi> dat van een <app n="d0e5406">
+                              <rdg wit="AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM3 ">verderen</rdg>
+                           </app> tocht niets meer terecht komt.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="253" base="z253">
+                     <app n="d0e5408">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsZM2 AdsZM3 AdsZP1 ">In ieder geval</rdg>
+                     </app>
+                     <app n="azze638">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <app n="eee5412">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">beteekent</rdg>
+                           </app>
+                           <app n="d0e5409">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsP1b AdsZP1 AdsZM2 AdsZM3 "/>
+                           </app>dat ik dat voel ook al voelt een ander dat ik dat niet voel.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="254" base="z254">
+                     <app n="azze640">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Het sluit alle verdere discussie uit.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="255" base="z255">
+                     <app n="azze641">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Waarom heb je dat gedaan?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="256" base="z256">
+                     <app n="d0e5410">
+                        <rdg wit="AdsD3 AdsD4 AdsP1a AdsP2 AdsD5 AdsD6 AdsZP1 ">Dààrom.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="257" base="z257">
+                     <hi rend="i">En <app n="d0e5411">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                        </app> is het goed ook.</hi>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="258" base="z258">Is het <app n="d0e5412">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> niet <app n="azze642">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">waar</rdg>
+                     </app>
+                     <app n="azze644">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> dan is het <app n="d0e5413">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> toch <app n="azze643">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">goed</rdg>
+                     </app>.</seg>
+                  <seg n="259" base="z259">Als <app n="azze645">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">
+                           <hi rend="i">ik</hi>
+                        </rdg>
+                     </app> maar <app n="azze646">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">tevreden ben en verder zorg dat het publiek waar krijgt naar zijn geld.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="260" base="z260">
+                     <app n="azze647">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Toch wordt het nu tijd dat ik ophoud, of ik bewijs te veel.</rdg>
+                     </app>
+                  </seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+
+                  <seg n="261" base="z261">
+                     <hi rend="i">Want mij rest nog maar net de tijd om eindelijk met vrouw en kinderen wat mee te leven, mij te <app n="d0e5414">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">koesteren</rdg>
+                        </app> aan de warmte van <app n="d0e5415">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                        </app> haard en te werken voor <app n="d0e5416">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">onzen</rdg>
+                        </app>
+                        <app n="d0e5417">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">ouden</rdg>
+                        </app> dag die voor de deur staat.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="262" base="z262">Er zal toch zeker niemand gevonden worden die zich niet laat vermurwen door mijn nooddruft om voor <app n="d0e5418">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">dien</rdg>
+                     </app>
+                     <app n="d0e5419">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">ouden</rdg>
+                     </app> dag <app n="azze648">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">van ons</rdg>
+                     </app> aan 't werk te gaan?</seg>
+                  <seg n="263" base="z263">
+                     <app n="d0e5421">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Dat zou <app n="d0e5420">
+                              <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">onmenschelijk</rdg>
+                           </app> zijn.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="264" base="z264">Niemand die <app n="azze649">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">op de scène</rdg>
+                     </app> de erkenning blijft <app n="d0e5422">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">eischen</rdg>
+                     </app> van mijn nog steeds positief verlangen naar <app n="d0e5423">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">gindsche</rdg>
+                     </app> land<app n="d0e5424">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app> ook al zouden bij een <app n="d0e5425">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">volgenden</rdg>
+                     </app> tocht vrouw en kinderen verhongeren, ook al zou daardoor dat kleinkind in 't <app n="d0e5426">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heele</rdg>
+                     </app>
+                     <app n="xxx5426">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">stuk</rdg>
+                     </app>  niets te doen krijgen?</seg>
+                  <seg n="265" base="z265">Men moet toch  <app n="azze650">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">inzien</rdg>
+                     </app> dat ik, <hi rend="i">
+                        <app n="d0e5427">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                        </app> lang ik ginder dwaalde, mijn kinderen niet opgevoed maar van hen <pb ed="AdsD3 " n="13" corresp=""/> genoten heb, voor mijn vrouw niet gezorgd maar met haar gespeeld.</hi>
+                  </seg>
+                  <seg n="266" base="z266">Is dat geen doorslaand argument?</seg>
+                  <seg n="267" base="z267">
+                     <app n="azze655">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Het publiek moet toch</rdg>
+                     </app> meegaand zijn<app n="azze653">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, anders kan ik opdoeken.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="268" base="z268">Plicht gaat <app n="azze657">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> immers boven waarheid?</seg>
+                  <seg n="269" base="z269">
+                     <app n="azze658">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Nu vindt die regisseur weer dat</rdg>
+                     </app>
+                     <hi rend="i">
+                        <app n="azze659">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">met</rdg>
+                        </app> mijn kinderen gespeeld en van mijn vrouw genoten</hi>
+                     <app n="azze660">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">beter is</rdg>
+                     </app> dan van mijn kinderen genoten en met mijn vrouw gespeeld.</seg>
+                  <seg n="270" base="z270">Om oprecht te kunnen spelen<app n="azze662">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, zegt hij,</rdg>
+                     </app> moet minstens een van de partners jong zijn<app n="azze664">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="271" base="z271">
+                     <app n="azze665">
+                        <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En de zaal zou dat spelen van dat koppel op jaren niet slikken.</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="272" base="z272">Nu mijzelf stevig aan <app n="d0e5428">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> haard gemetseld om van dat kind, dat mijn boeien breken moet, een <app n="d0e5429">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bovenaardsche</rdg>
+                     </app> kracht te doen uitgaan<app n="azze667">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, want daar reken ik op om 't publiek te doen opstaan.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="273" base="z273">
+                     <hi rend="i">Hier bij 't vuur, in onze kooklucht, komt het er <app n="d0e5430">
+                           <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">opaan</rdg>
+                        </app> mijn plicht te doen als een doodgewoon mannetje dat ik <app n="d0e5431">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsZM2 AdsZM3 ">ten slotte</rdg>
+                        </app> ben.</hi>
+                  </seg>
+                  <seg n="274" base="z274">Dat doodgewoon mannetje is <app n="azze669">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">er op berekend om de <app n="d0e5432">
+                              <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">besten</rdg>
+                           </app> onder de kijklustigen op dat moment te doen verklaren</rdg>
+                     </app> dat ik volstrekt niet <app n="d0e5433">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoo</rdg>
+                     </app> doodgewoon ben, maar een <app n="d0e5434">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heele</rdg>
+                     </app> Piet.</seg>
+                  <seg n="275" base="z275">
+                     <app n="azze670">
+                        <rdg wit="AdsM1 AdsM2d AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Stel</rdg>
+                     </app> je voor dat <app n="azze671">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ze</rdg>
+                     </app> mij gelijk <app n="d0e5435">
+                        <rdg wit="AdsM1 AdsM2a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 ">gaven</rdg>
+                     </app>.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="276" base="z276">Nog steeds heb ik een gevoel alsof ik pensum verdien omdat het <app n="azze672">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="azze673">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">thuis blijven</rdg>
+                     </app>
+                     <app n="azze674">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">een beetje <app n="azze676">
+                              <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">intempestief</rdg>
+                           </app> is geweest,</rdg>
+                     </app> niet voldoende gewettigd<app n="azze675">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>, <app n="azze677">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">alsof</rdg>
+                     </app> ik nog steeds <app n="d0e5436">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> indruk maak <app n="azze679">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dat</rdg>
+                     </app> ik daar moedwillig blijf zitten om met het optreden van dat kleinkind, dat gedaan <app n="azze680">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">moet krijgen</rdg>
+                     </app> wat ik van mijzelf niet meer verkrijgen kon, <app n="azze682">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">de toeschouwers</rdg>
+                     </app> te <app n="d0e5437">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">epateeren</rdg>
+                     </app> als de boeren op de kermis met een kind zonder hoofd.</seg>
+                  <seg n="277" base="z277">Ik zal de noodzakelijkheid om thuis te blijven dus nog maar wat aandikken<app n="azze683">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> want ik kan <app n="azze684">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">toch</rdg>
+                     </app> niet meer terug.</seg> 
+                  <seg n="278" base="z278">
+                     <hi rend="i">Dit is mijn laatste kans<app n="azze685">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                        </app>
+                     </hi>
+                     <app n="azze686">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <hi rend="i">want <app n="azze687">
+                           <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zij</rdg>
+                        </app> groeien als kool.</hi>
+                  </seg>
+                  <seg n="279" base="z279">
+                     <hi rend="i">Een heeft al een  snor en een <app n="d0e5438">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">ouwelijke</rdg>
+                        </app> trek om <app n="d0e5439">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                        </app> mond.</hi>
+                  </seg>
+                  <seg n="280" base="z280">Is het nu <pb ed="AdsD3 " n="14" corresp=""/> duidelijk <app n="azze688">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>  dat zij <app n="azze689">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> in staat zijn <app n="azze690">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                     <app n="d0e5440">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> kapitein desnoods aan <app n="d0e5441">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> dijk te zetten, met  of zonder pensioen<app n="d0e5442">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app> en zelf het roer in handen te nemen?</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="281" base="z281">
+                     <hi rend="i">Als ik mij nu niet aanpas word ik <app n="d0e5443">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">uitgestooten</rdg>
+                        </app> door mijn eigen broed, want zij zien in mijn <app n="azze691">
+                           <rdg wit="AdsM2b AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dolen</rdg>
+                        </app> een verraad en scharen zich zwijgend om hun moeder.</hi>
+                  </seg>
+                  <seg n="282" base="z282">Zie je dat dreigend gezelschap daar staan?</seg>
+                  <seg n="283" base="z283">Dat wijf, dat <app n="d0e5444">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">tóch</rdg>
+                     </app> al beklaagd wordt<app n="azze692">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "> door de zaal,</rdg>
+                     </app> ook al had zij <app n="azze693">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">geen</rdg>
+                     </app>
+                     <app n="d0e5445">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">dolenden</rdg>
+                     </app> vent, omringd door die stevige jongens?</seg>
+                  <seg n="284" base="z284">Een  bende kannibalen<app n="azze695">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, zeg ik.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="285" base="z285">
+                     <app n="azze697">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En</rdg>
+                     </app>  ikzelf een gevangen zendeling.</seg>
+                  <seg n="286" base="z286">Stellen zij geen zwijgend ultimatum: "Ouwe, wat ben je nu van plan<app n="azze699">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">?</rdg>
+                     </app> Dolen of <app n="azze698">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">thuis blijven</rdg>
+                     </app>?"</seg>
+                  <lb ed="AdsM2a AdsM2b AdsM2c AdsM2d AdsM2e AdsM2f AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "
+                      TEIform="lb"/>
+                  <lb ed="AdsZM2 " TEIform="lb"/>
+                  <seg n="287" base="z287">
+                     <hi rend="i">En zij hebben gelijk.</hi>
+                  </seg>
+                  <seg n="288" base="z288">Zeker hebben zij gelijk.</seg>
+                  <seg n="289" base="z289">Hoe <app n="azze700">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">gedecideerder</rdg>
+                     </app> hun optreden, hoe vaster ik aan <app n="d0e5447">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> haard zit en hoe heerlijker <app n="azze701">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">de slotscène van </rdg>
+                     </app>mijn bevrijding door dat kind.</seg>
+                  <seg n="290" base="z290">Binden, ketenen moesten zij mij<app n="azze703">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, tot het publiek protesteert.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="291" base="z291">Hij krijgt toch alles los, want dat is het doel van 't <app n="d0e5448">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heele</rdg>
+                     </app> verhaal.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="292" base="z292">
+                     <app n="d0e5449">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">Zoo</rdg>
+                     </app> heb ik daar dan gezeten, in die kooklucht<app n="azze704">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>, omringd door dat zwijgend rot, <hi rend="i">tot ik op een <app n="d0e5450">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">heerlijken</rdg>
+                        </app> dag die schat van een kleinzoon in huis gewaar werd, die aan hun dwingelandij  een eind heeft gemaakt.</hi>
+                  </seg>
+                  <seg n="293" base="z293">Die <hi rend="i">heerlijke</hi> dag sluit in dat ik, als zuster Anna, naar <app n="d0e5451">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">dien</rdg>
+                     </app> dag zat uit te kijken.</seg>
+                  <seg n="294" base="z294">'t Is misschien sterker dat mijn bevrijding bewerkt wordt tegen mijn eigen wil.</seg>
+                  <seg n="295" base="z295">Hoe knusser ik  bij <app n="d0e5452">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> haard zat, met of zonder ketenen, des te magischer de kracht die mij nogmaals de baan opjaagt.</seg>
+                  <seg n="296" base="z296">
+                     <app n="azze706">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Heerlijk</rdg>
+                     </app> er <app n="azze707">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> uit, <app n="azze708">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">heilloos</rdg>
+                     </app> in de plaats en de zaak is in orde.</seg>
+                  <seg n="297" base="z297">
+                     <app n="azze709">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Maar als</rdg>
+                     </app> ik <app n="azze710">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">heilloos</rdg>
+                     </app> accepteer <app n="azze711">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">dan</rdg>
+                     </app> heeft ook die <app n="azze712">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">kleinzoon</rdg>
+                     </app>, die erg officieel klinkt, een qualificatie <app n="d0e5453">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">noodig</rdg>
+                     </app> van dezelfde  kleur.</seg>
+                  <seg n="298" base="z298">
+                     <hi rend="i">Tot ik op een <app n="d0e5454">
+                           <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 ">heillooze</rdg>
+                        </app> dag dat  mormel van een kleinzoon in huis gewaar werd.</hi>
+                  </seg>
+                  <seg n="299" base="z299">
+                     <pb ed="AdsD3 " n="15" corresp=""/> Wel een <app n="azze713">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> flink mormel, mais passons.</seg>
+                  <seg n="300" base="z300">
+                     <hi rend="i">Die aan hun dwingelandij een eind heeft gemaakt.</hi>
+                  </seg>
+                  <seg n="301" base="z301">Kom, kom.</seg>
+                  <seg n="302" base="z302">Die grap wordt flauw.</seg>
+                  <seg n="303" base="z303">
+                     <app n="azze715">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Dwingelandij?</rdg>
+                     </app>
+                  </seg>
+                  <seg n="304" base="z304">Rotten was het.</seg>
+                  <seg n="305" base="z305">
+                     <hi rend="i">Die aan hun rotten een eind heeft gemaakt.</hi>
+                  </seg>
+                  <seg n="306" base="z306">Volstrekt niet.</seg>
+                  <seg n="307" base="z307">
+                     <hi rend="i">Ons</hi> rotten, <app n="azze717">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vader</rdg>
+                     </app>.</seg>
+                  <seg n="308" base="z308">Je hebt er jezelf toe geleend, vriend, om ook dat kind iets te doen te geven<app n="azze718">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">.</rdg>
+                     </app>
+                  </seg>
+                  <seg n="309" base="z309">
+                     <app n="azze720">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">En bovendien,</rdg>
+                     </app> hoe heeft dat kind hem dat gelapt?</seg>
+                  <seg n="310" base="z310">Hoe  heeft hij zich voor 't eerst laten gelden?</seg>
+                  <seg n="311" base="z311">Eenvoudig genoeg<app n="azze721">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">, regisseur,</rdg>
+                     </app> want terwijl ik schrijf hoor ik zijn gekraai onder de tafel <app n="d0e5455">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">zoodat</rdg>
+                     </app> ik mijn lompe voeten niet verzetten durf.</seg>
+                  <seg n="312" base="z312">Met zijn <hi rend="i">gekraai</hi> dus.</seg>
+                  <seg n="313" base="z313">En om bij dat geluid ook iets te zien te geven<app n="azze723">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> voeg ik er <app n="d0e5456">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app>gauw <app n="azze724">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">die</rdg>
+                     </app>
+                     <hi rend="i">
+                        <app n="d0e5457">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bloote</rdg>
+                        </app>  billen</hi> bij<app n="azze725">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">,</rdg>
+                     </app> in de vaste overtuiging<app n="d0e5458">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 ">,</rdg>
+                     </app> dat die in <app n="d0e5459">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">den</rdg>
+                     </app> smaak zullen vallen.</seg>
+                  <seg n="314" base="z314">
+                     <hi rend="i">Die met zijn gekraai en zijn <app n="d0e5460">
+                           <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">bloote</rdg>
+                        </app> billen aan ons rotten een eind heeft gemaakt.</hi>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="315" base="z315">Het slot volgt van zelf.</seg>
+                  <seg n="316" base="z316">
+                     <app n="azze727">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">Terwijl heel de zaal opstaat zijn mijn boeien</rdg>
+                     </app> verkoold tot  <app n="d0e5461">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">asch</rdg>
+                     </app> en <app n="d0e5462">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">arm in arm</rdg>
+                     </app>
+                     <app n="azze728">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zijn wij</rdg>
+                     </app>
+                     <app n="azze729">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> opgestapt naar dat land waar  die gouden vogel jubelt, véél <app n="d0e5463">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">hooger</rdg>
+                     </app> dan de leeuwerik.</seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="317" base="z317">'t Was <app n="azze732">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> een uittocht zonder risico, want onder al die <app n="d0e5464">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsZM2 AdsZM3 ">huisgenooten</rdg>
+                     </app> is er <app n="azze733">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app> niet één die <app n="azze735">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">zijn bek durft open te doen</rdg>
+                     </app> als die jongen zijn wil laat gelden.</seg> 
+                  <seg n="318" base="z318">
+                     <app n="d0e5465">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 "/>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="319" base="z319">Bij 't herlezen komt het <app n="d0e5466">
+                        <rdg wit="AdsD3 ">U</rdg>
+                     </app> voor<app n="d0e5467">
+                        <rdg wit="AdsM1 AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsZM2 AdsZM3 ">....</rdg>
+                     </app>
+                  </seg>
+               </p>
+               <p TEIform="p">
+                  <seg n="320" base="z320">Schei uit<app n="d0e5468">
+                        <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                     </app>
+                     <app n="azze736">
+                        <rdg wit="AdsM2a AdsT1 AdsM3a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 AdsZM2 AdsZM3 ">vent</rdg>
+                     </app>.</seg>
+                  <seg n="321" base="z321">
+                     <app n="d0e5469">
+                        <rdg wit="AdsD3 AdsD4 ">Wordt</rdg>
+                     </app> je niet ijl in je hoofd?</seg>
+                  <seg n="322" base="z322">Zet dat kind in zijn stoel en laat die tekst met vrede, op hoop van zegen.</seg>
+                  <emph rend="signed" TEIform="emph">
+                     <seg n="323" base="z323">
+                        <app n="d0e5470">
+                           <rdg wit="AdsM2a AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsZM2 AdsZP1 ">Antwerpen, 22 November 1934.</rdg>
+                        </app>
+                     </seg>
+                     <seg n="324" base="z324">
+                        <app n="azze738">
+                           <rdg wit="AdsD1 AdsD2 AdsD3 AdsD4 AdsD5 AdsP1a AdsP2 AdsD6 AdsZP1 "/>
+                        </app>
+                     </seg>
+                  </emph>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI.2>

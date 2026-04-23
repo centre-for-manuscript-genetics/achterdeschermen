@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+   <teiHeader creator="Dirk Van Hulle" date.created="2000-06-08">
+      <fileDesc>
+         <titleStmt>
+            <title>Achter de Schermen: a machine readable transcription</title>
+            <title>Achter de Schermen: a machine readable transcription</title>
+            <author id="WE">Willem Elsschot</author>
+            <principal id="DVH">Dirk Van Hulle</principal>
+            <principal id="PDB">Peter De Bruijn</principal>
+            <funder>
+               <name>Centre for Manuscript Genetics (UA)</name>
+               <name>Huygens Instituut (HI), Koninklijke Nederlandse Akademie van Wetenschappen</name>
+               <name>Centrum voor Teksteditie en Bronnenstudie (CTB), Koninklijke Academie voor Nederlandse Taal- en Letterkunde</name>
+               <address>
+                  <addrLine>Universiteit Antwerpen (UA)</addrLine>
+                  <addrLine>Prinsstraat 13</addrLine>
+                  <addrLine>B-2000 Antwerpen</addrLine>
+                  <addrLine>Belgium</addrLine>
+                  <addrLine>tel: +32 (0)3 220 42 46</addrLine>
+                  <addrLine>email: dirk.vanhulle@ua.ac.be</addrLine>
+               </address>
+            </funder>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <authority>Centre for Manuscript Genetics (UA)</authority>
+            <authority>Huygens Instituut (HI), Koninklijke Nederlandse Akademie van Wetenschappen</authority>
+            <authority>Centrum voor Teksteditie en Bronnenstudie (CTB), Koninklijke Academie voor Nederlandse Taal- en Letterkunde</authority>
+            <pubPlace>Antwerp</pubPlace>
+            <date>2007</date>
+            <availability status="restricted"/>
+         </publicationStmt>
+         <sourceDesc/>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <editorialDecl>
+            <p>
+               <list>
+                  <item>Correction:</item>
+                  <item>Normalization:</item>
+                  <item>Quotation:</item>
+                  <item>Hyphenation:</item>
+                  <item>Interpretation:</item>
+               </list>
+            </p>
+         </editorialDecl>
+         <tagsDecl/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <p>
+               <foreign id="Latijn">Latijn</foreign>
+               <foreign id="Duits">Duits</foreign>
+               <foreign id="Engels">Engels</foreign>
+               <foreign id="Frans">Frans</foreign>
+            </p>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text id="OpdM1">
+      <body TEIform="body">
+         <div type="sectie"
+              org="uniform"
+              sample="complete"
+              part="N"
+              TEIform="div">
+            <head TEIform="head">TSJIP.</head>
+            <div type="subsectie"
+                 org="uniform"
+                 sample="complete"
+                 part="N"
+                 TEIform="div">
+               <head TEIform="head">Inleiding.</head>
+               <p TEIform="p">
+                  <pb ed="OpdM1 " n="1" corresp=""/> Voor de zóóveelste maal kom ik thuis van de reis en weer staat mijn stoel gereed, tafel en bed gedekt, pantoffels bij 't vuur, alsof ik  iederen dag verwacht werd. Mijn kinderen hebben heel gewoon "Pa" gezegd en mijn vrouw heeft gevraagd wat ik verkoos, lever of haring. Ik heb niet geantwoord omdat ik  den moed niet had mijn eigen stem aan te  hooren, heb de hand uitgestoken naar wat het dichtst bij stond en zwijgend mijn maag gevuld. Hun gerustheid, hun zekerheid dat ik ook ditmaal  terugkeeren zou heeft mij beschaamd en diep gegriefd. Maar was ik aan 't bulderen gegaan dan had er niets op  over geschoten dan met weerzin weer op te staan. En het trekken lokt mij niet meer.</p>
+               <p TEIform="p">Ben ik vermoeid of kan ik het licht van  gindsche land niet meer verdragen? Ik voel in ieder geval dat van een  volgenden tocht niets meer terecht komt. En  dat is  maar goed ook, want mij rest nog maar net de tijd om eindelijk met vrouw en kinderen wat mee te leven, mij te koesteren aan de warmte van  den haard en te werken voor  onzen ouden dag die voor de deur staat. Zoolang ik ginder dwaalde heb ik mijn kinderen niet opgevoed maar met hen gespeeld, voor mijn vrouw niet gezorgd maar van  haar genoten.</p>
+               <p TEIform="p">Die Meimaandjes zijn nu voorbij. Hier bij 't vuur, in onze <pb ed="OpdM1 " n="2" corresp=""/> kooklucht, komt het er op aan mijn plicht te doen als een doodgewoon mannetje dat ik tenslotte ben. Want aller oogen zijn op mij gericht. Doet mijn vrouw haar plicht niet als zij wascht en plast, als zij op griezelige regendagen op de vischmarkt loopt te dwalen zonder acht te slaan op haar aderspatten noch op haar slechten stoelgang ? Doen niet die kinderen eveneens hun plicht wanneer zij achter schoolmuren hun zonnigste dagen slijten?</p>
+               <p TEIform="p">Dit is mijn laatste kans want zij groeien als kool en steken de koppen bijeen. Een heeft al een snor en een ouwelijke trek om den mond.  Zij zien in mijn dolen een verloochening en scharen zich zwijgend om hun moeder. En zij hebben gelijk. Als ooit het huis vuur vat dan worden zij door haar gewekt en niet door mij. En had ik ditmaal niet gebukt dan had de bende mij uitgestooten.</p>
+               <p TEIform="p">Trouwens, ginder ver is geen plaats voor kerels met een schorre stem, die weten hoe 't in 't leven gaat. Ook dáár voelt men  zich tenslotte verlaten. Ook dáár is men eindelijk nog slechts een vieze vlek in een onbezoedeld landschap, een hoopje vuil in de feestzaal. En stinkt men niet geruster bij den haard   dan in een paradijs?</p>
+               <p TEIform="p">Ik heb dus mijn taak als razend aangepakt, mijn ridderorde weer opgestoken en mijn zaken gedreven als een die nooit dat land heeft bereisd. Ik schreef mijn rekeningen met vaste hand, groette al wie mij groette, had een minzaam woord voor vriend en vijand en liet mijn schuldenaars afmaken door een deurwaarder, zooals het hoort. Tot ik op dien heilloozen dag <pb ed="OpdM1 " n="3" corresp=""/> dat mormel van een kleinkind in huis gewaar werd, met zijn gekraai en zijn bloote billen.</p>
+               <p TEIform="p">Toen heb ik mezelf betrapt bij 't sluipen naar den zolder waar ik mijn stok heb opgezocht in stof en spinrag. En nu zullen mijn klanten wachten en 't bestelde niet zien komen. Die nog niet betaald hebben kunnen stikken in mijn geld. Mijn beenen jeuken en ik heb al een toonladder met de keel geschraapt. En voo<add rend="zwarte inkt" place="boven de regel" hand="WE">r</add>uit is de weg. Kom, jongen, vooruit is de weg.</p>
+               <p TEIform="p">Mogen vrouw en kinderen mij vergeven dat ik een laatste maal op zoek ben gegaan naar die vermaledijde heerlijkheid waar een gouden vogel jubelt, véél  dan de leeuwerik.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI.2>
