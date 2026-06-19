@@ -1,0 +1,51 @@
+{
+  "title": "Achter de Schermen: A Static Digital Scholarly Edition of Willem Elsschot's Achter de Schermen and Opdracht",
+  "description": "Static HTML edition of Willem Elsschot's <i>Achter de Schermen</i> and the dedication (\"Opdracht\") to <i>Tsjip</i>, presenting all witnesses with full critical apparatus, facsimile images, and genetic (writing-process) views. Originally published in 2007 as an Apache Cocoon application on CD-ROM; rebuilt as a fully static, self-contained, redistributable HTML edition as part of the postdoctoral project 'Lots of Copies Keep Stuff Safe: Future-Proofing Digital Scholarly Editions' (2025\u20132028). Source files, XSLT, and build tooling are maintained separately at centre-for-manuscript-genetics/ads.<br><br>The texts of <i>Achter de Schermen</i> and <i>Opdracht</i> are \u00a9 Erven A. De Ridder (Willem Elsschot)/Athenaeum \u2013 Polak &amp; Van Gennep, Amsterdam. All rights reserved. The electronic edition is made available under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Neyt, Vincent",
+      "affiliation": "Centre for Manuscript Genetics, University of Antwerp",
+      "orcid": "0000-0003-3825-8579"
+    },
+    {
+      "name": "Van Hulle, Dirk",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "De Bruijn, Peter",
+      "affiliation": "Huygens Instituut - KNAW"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "keywords": [
+    "digital scholarly editing",
+    "TEI",
+    "Willem Elsschot",
+    "digital preservation",
+    "LOCKSS",
+    "static site",
+    "genetic criticism",
+    "manuscript genetics",
+    "critical apparatus"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://github.com/centre-for-manuscript-genetics/ads",
+      "resource_type": "software"
+    },
+    {
+      "relation": "isPartOf",
+      "identifier": "https://zenodo.org/communities/lockss-future-proofing-dses",
+      "resource_type": "other"
+    }
+  ],
+  "communities": [
+    { "identifier": "lockss-future-proofing-dses" }
+  ],
+  "grants": [],
+  "notes": "Created as part of the project 'Lots of Copies Keep Stuff Safe: Future-Proofing Digital Scholarly Editions' (2025-2028)."
+}
